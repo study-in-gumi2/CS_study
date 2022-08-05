@@ -43,13 +43,13 @@
 - 한쪽 끝에서만 자료를 넣고 뺄수 있는 구조
 - LIFO(Last In First Out)구조로, 후입선출 구조를 이루는 데이터 구조
 - 빨래바구니 또는 상자에 차곡차곡쌓은 물건들을 생각하면 쉽다.
-<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/stack1.png?raw=true">
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/stack1.png">
 
 - Stack의 예시 : 인터넷 뒤로가기, 재귀함수, ctrl+z
 
 ## top
 스택에서 현재 target인 스택의 위치를 가리키는 top은 마지막으로 들어온 데이터를 기억하며 인덱스로 가리킬 수 있도록 한다.
-<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/stack2.png?raw=true">
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/stack2.png">
 
 
 ---
@@ -58,18 +58,18 @@
   - Queue의 뒤(Enqueue) : 데이터 삽입 / Queue의 앞(Dequeue) : 데이터 추출
 - FIFO(First In First Out)구조로, 선입선출 구조를 이루는 데이터 구조
 - Queue의 예시 : 서비스 대기 행렬(은행 번호표)
-<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue1.png?raw=true">
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue1.png">
 
 ## Queue의 종류
 - 선형 큐
   - 선형큐의 문제점
-<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue2.png?raw=true">
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue2.png">
 
   - 해결방법
 	1. 매 연산이 이루어질 때마다 저장된 원소들을 배열의 앞부분으로 이동시킨다 -> 많은 리소스 사용!!!!
 	2. 환형 큐(원형 큐) 써
 - 환형 큐
-<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue3.png?raw=true">
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue3.png">
   - 1차원 배열을 사용하되, 논리적으로 배열의 처음과 끝이 연결되어 있는 원형의 Queue가 있다고 가정
 
 
