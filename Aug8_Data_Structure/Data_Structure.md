@@ -43,6 +43,6 @@
 - 한쪽 끝에서만 자료를 넣고 뺄수 있는 구조
 - LIFO(Last In First Out)구조로, 후입선출 구조를 이루는 데이터 구조
 - 빨래바구니 또는 상자에 차곡차곡쌓은 물건들을 생각하면 쉽다.
-<img src="../images/stack1.pngimages/stack1.png">
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/stack1.png?raw=true">
 ## top
 스택의 기본적인 현
