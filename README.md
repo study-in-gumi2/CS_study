@@ -3,7 +3,7 @@
 
 ## Aug Plan -> 개발자 틀 잡아가기
 ---
-### ��Study Plan
+### 🚩 Study Plan
 
 |날짜|CS STUDY TITLE|
 |---|---|
