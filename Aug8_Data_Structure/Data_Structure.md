@@ -45,4 +45,5 @@
 - 빨래바구니 또는 상자에 차곡차곡쌓은 물건들을 생각하면 쉽다.
 <img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/stack1.png?raw=true">
 ## top
-스택의 기본적인 현
+스택에서 현재 target인 스택의 위치를 가리키는 top은 마지막으로 들어온 데이터를 기억하며 인덱스로 가리킬 수 있도록 한다.
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/stack2.png?raw=true">
