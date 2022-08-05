@@ -61,18 +61,47 @@
 <img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue1.png">
 
 ## Queue의 종류
-- 선형 큐
+### 선형 큐
   - 선형큐의 문제점
 <img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue2.png">
 
   - 해결방법
 	1. 매 연산이 이루어질 때마다 저장된 원소들을 배열의 앞부분으로 이동시킨다 -> 많은 리소스 사용!!!!
 	2. 환형 큐(원형 큐) 써
-- 환형 큐
+### 환형 큐(원형 큐)
 <img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Structure_images/queue3.png">
   - 1차원 배열을 사용하되, 논리적으로 배열의 처음과 끝이 연결되어 있는 원형의 Queue가 있다고 가정
+  - 선형 큐에서는 데이터를 가리키는 인덱스가 하나였지만, 환형 font, rear 두개의 인덱스 변수가 존재한다.
+    - front는 첫 번째 데이터를 가리키는 변수
+    - rear는 마지막 데이터를 가리키는 변수
+    - front 와 rear 가 가르키는 변수가 같다면 원형큐는 비어있다고 볼 수 있다
+
+  
+### 우선순위 큐
+일단 PASS
+
+---
+# hash(해시)
+
+- 다양한 길이를 가진 데이터를 고정된 길이를 가진 데이터로 mapping한 값
+- 마치 파이썬의 Dictionary 와 같이 key 와 value 가 1:1 mapping 되어 있는 데이터 구조
+- 기존의 자료 구조들은 탐색이나 삽입에 선형적인 시간이 걸리는 반면, 해시구조는 즉시 저장하거나 찾고자 하는 위치를 참조할 수 있으므로 빠른 속도로 처리할 수 있다.
+
+## hash의 특성
+
+### 무결성
+
+- hash는 특정한 데이터를 이를 상징하는 더 짧은 길이의 데이터로 변환하는 행위를 의미한다(key-value)
+- 여기서 value값은 원래의 데이터가 조금만 달라져도 확연하게 달라지기 때문에 무결성을 지키는데 많은 도움을 준다.
+  - 예를들어 'A' 라는 문자열의 해시와 'B'라는 문자열의 해시는 한글자 차이지만 결과값은 완전히 다른 문자열이 나온다.
+
+### 보안성
 
 
 
 
-- 우선순위 큐
+
+
+
+
+
