@@ -21,6 +21,7 @@
   1-5. Graph(그래프)
   1-6. Selection sort(정렬)
   1-7. Search(탐색)
+
 ---
 ### 들어가기에 앞서
 
