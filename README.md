@@ -2,7 +2,6 @@
 - ### Feat. 오주영, 정형빈, 홍종혁
 
 ## 🚩 8월 Plan -> 개발자 틀 잡아가기
----
 ### 🚩 Study Plan
 
 |날짜|CS STUDY TITLE|
