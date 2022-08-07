@@ -125,7 +125,11 @@
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoHi34%2FbtqSjAPXa41%2FDwji6MLkkGCfd09dsTxnzk%2Fimg.png">
 
-- 어떤 
+- 위 그림과 같은 사진이 있을때, 1에서 3까지 갈수 있다는 판단을 내리기 위해서는 어떻게 해야할까?
+- 컴퓨터는 사람과 같은 판단을 할 수 없기 때문에 제한된 시간안에 정확하고 빠른 판단을 하기 위해서는 알고리즘을 통해 방법을 알려주어야 한다. 
+  - 예를 들어, 랜덤한 방향으로 이어진 정점으로 이동하는 프로그램을 짠다면 프로그램이 돌다가 어쩌다 1에서 3까지 도달하게 됨으로, 이어져있다고 판단을 내릴 수는 있겠으나 이러한 방법으로는 제한된 시간안에 제대로된 답변을 내놓을 수 없다.
+
+        
 
 <img src="https://blog.kakaocdn.net/dn/cFgEJ6/btqKmoJkq5a/pwm3O8T4rERuL4wSTrkgnK/img.gif">
 
