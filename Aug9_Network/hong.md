@@ -57,6 +57,8 @@
 하지만, 이는 장정이자 단점이다.
 round robin의 가장 큰 장점은 실시간으로 헬스체크가 어렵다는것을 이용해서 간편하게 로드밸런싱과 비슷한 역할을 수행할 수 있다는 점이지만, 이것이 단점으로 작용하기도 한다.
 
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Network/roundrobin.PNG">
+
 # 2-6. 웹 통신의 큰 흐름
 
 ## 인터넷은 어떻게 동작하는가?
