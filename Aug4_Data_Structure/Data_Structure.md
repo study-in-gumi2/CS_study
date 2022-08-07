@@ -138,7 +138,26 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/400px-Binary_tree.svg.png">
 
+- tree에서 최상위 노드를 Rootnode라 하고 A 를 B 의 부모노드(Parent node), B 를 A 의 자식노드(Child node) 라고 한다.
 
+- Tree 구조의 종류는 아주 많으니 일단 패스. 나중에 따로 알아보세용
 
 # 1-6. Search(탐색)
+- 탐색은 정렬 알고리즘에 기초가 된다.
+- 탐색이란 다시 말해서 "데이터를 찾는 방법"이다.
+- 탐색을 효율적으로 수행하는 것은 처리속도에 매우 중요한 역할을 한다.
+
+## 순차 탐색(Linear Search)
+- 탐색 방법 중에서 가장 간단하고 직접적인 탐색 방법
+- 정렬되지 않은 배열을 처음부터 마지막까지 하나씩 검사
+#### 보통, **정렬되지 않은 리스트**에서 원하는 데이터를 찾아야 할 때 사용한다.
+
+### 특징
+- 데이터 정렬 여부와 상관없이, 가장 앞에있는 원소부터 하나씩 확인
+- 시간복잡도 = O(N)
+  - 데이터의 개수가 N개일 때 최대 N번의 비교 연산이 필요하므로 최악의 경우 O(N)
+
+## 이진 탐색(Binary Search)
+- 
+
 # 1-7. Selection sort(정렬)
