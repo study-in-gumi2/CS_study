@@ -133,6 +133,10 @@
 <img src="https://blog.kakaocdn.net/dn/cFgEJ6/btqKmoJkq5a/pwm3O8T4rERuL4wSTrkgnK/img.gif">
 
 # 1-5. Tree(트리구조)
+- Tree구조는 그래프의 일종으로, 한 노드에서 시작해서 다른 정점들을 순회하며 자기 자신에게 들어오는 순환이 없는 연결 그래프
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/400px-Binary_tree.svg.png">
+
 
 
 # 1-6. Search(탐색)
