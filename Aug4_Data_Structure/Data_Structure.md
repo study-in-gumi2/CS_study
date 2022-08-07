@@ -171,4 +171,8 @@
   - 이진 탐색은 한 번 확인할 때마다 확인하는 원소의 개수가 절반씩 줄어든다는 점에서 시간 복잡도가 O(logN)이다.
 
 
-# 1-7. Selection sort(정렬)
+# 1-7. Sorting(정렬)
+
+- 얘는 정리하기 너무 많은데..? PASS
+
+[갓무위키-정렬](https://namu.wiki/w/%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
