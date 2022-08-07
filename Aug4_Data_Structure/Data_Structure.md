@@ -123,7 +123,7 @@
 
 ## 그래프의 탐색 방법(DFS, BFS)
 
-<img src="https://images.app.goo.gl/NuHdt8jJ1WMPrahT9">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoHi34%2FbtqSjAPXa41%2FDwji6MLkkGCfd09dsTxnzk%2Fimg.png">
 
 - 어떤 
 
