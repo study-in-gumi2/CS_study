@@ -3,6 +3,10 @@
 ### Protocol
 컴퓨터 내부 또는 컴퓨터 사이에서 데이터의 교환 방식을 정의하는 규칙 체계
 
+### 소켓과 패킷이란 무엇인가?
+https://babbab2.tistory.com/9
+https://chung-develop.tistory.com/82
+
 ### OSI 7 layer
 OSI 모형 (Open Systems Interconnection Reference Model)은 국제 표준화 기구(ISO)에서 개발한 모델로, 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 것이다. 일반적으로 OSI 7 계층 모형이라고 한다. 이 모델은 프로토콜을 기능별로 나눈 것으로 각 계층은 하위 계층의 기능만을 이용하고, 상위 계층에게 기능을 제공한다.
 
@@ -60,6 +64,8 @@ OSI 7 계층의 전송 계층에 해당
 
 
 [TCP와 UDP의 특징과 차이점](https://odeyou.tistory.com/109)
+[TCP UDP 강의](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/unit/61354)
+
 
 ## HTTP(Hyper Text Transfer Protocol)
 서버/클라이언트 모델을 따라 데이터를 주고 받기 위한 프로토콜이다. 1989년 팀 버너스리에 의해 처음 설계되었으며 WWW(World-Wide-Web) 기반에서 세계적인 정보를 공유하는데 큰 역할을 하였다.
