@@ -72,7 +72,9 @@
 3-5. 동기와 비동기의 차이
 
 [동기, 비동기 설명 블로그](https://private.tistory.com/24)
+[동기, 비동기 설명2_github](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 3-6. 프로세스 동기화
 
+[프로세스 동기화_github](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
