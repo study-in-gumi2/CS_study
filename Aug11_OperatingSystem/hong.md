@@ -78,3 +78,4 @@
 
 [프로세스 동기화_github](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
+[세마포](https://copycode.tistory.vcom/62)
