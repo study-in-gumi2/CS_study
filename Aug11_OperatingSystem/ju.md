@@ -44,6 +44,7 @@ CPU는 코드 영역에 저장된 명령어를 하나씩 가져가서 처리한�
 > https://www.inflearn.com/questions/163538
 > 결론 : 아니다
 
+
 ## 프로세스와 스레드의 차이 (Process VS Thread)
 
 ### Program이란?	
