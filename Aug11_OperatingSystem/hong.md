@@ -13,7 +13,9 @@
 |8/18|디자인패턴(Design Pattern|
 |8/23|프레임워크 & 라이브러리 차이(Framework & Library)|
 |8/25, 8/30| 기술 스택들 찾아보고 9월 계획 세우기(Planning)|
+
 ---
+
 ## 3. 운영체제 (Operating System)
 
 	3-1. 프로세스와 스레드의 차이
