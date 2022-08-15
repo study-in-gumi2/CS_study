@@ -243,7 +243,9 @@ SELECT 쿼리의 성능을 월등히 향상시키는 INDEX 항상 좋은 것일�
 
 
 ## 추가 설명
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Base/IMG_0030.jpg">
 ### 관계 데이터 모델의 구성
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Base/IMG_0029.jpg">
 | 구성 요소 | 상세설명|
 |---|---|
 |개체(Entity)| 업무 활동상 지속적인 관심을 가지고 있는 대상, 그 대상들 간에 동질성을 지닌 객체 집합이나 행위의 집합|
@@ -258,8 +260,7 @@ SELECT 쿼리의 성능을 월등히 향상시키는 INDEX 항상 좋은 것일�
 사진 ( 관계 데이터 모델의 개념)
 
 ### 데이터 베이스 설계
-사진
-
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Base/IMG_0032.PNG">
 ## E-R 모델 (Entity - Relationship Model) == ERD
 
 현실 세계에 존재하는 데이터와 그들 간의 관계를 사람이 이해할 수 있는 형태로 '명확하게 표현하기 위해 사용' 되고 있는 데이터베이스 모델
