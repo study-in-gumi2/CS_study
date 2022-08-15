@@ -264,8 +264,7 @@ SELECT 쿼리의 성능을 월등히 향상시키는 INDEX 항상 좋은 것일�
 사진 ( 관계 데이터 모델의 개념)
 
 ### 데이터 베이스 설계
-
-<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Base/IMG_0032.PNG">
+<img src="https://github.com/study-in-gumi2/CS_study/blob/main/images/Data_Base/IMG_0032.jpg">
 
 ## E-R 모델 (Entity - Relationship Model) == ERD
 
@@ -281,4 +280,3 @@ SELECT 쿼리의 성능을 월등히 향상시키는 INDEX 항상 좋은 것일�
 |데이터 중심 방식의 설계| 잘 설계된 논리 데이터 모델은 업무의 변경에 영향을 받지 않도록 프로세스 중심보다 데이터 중심 방식의 설계를 사용|
 | 논리 모델과 물리 모델의 매칭| 논리 데이터 모델과 물리 데이터 모델이 반드시 1:1 관계로 이루어지지는 않으며, 한 개 혹은 한 개 이상의 테이블이 될 수 있다.|
 
-test
