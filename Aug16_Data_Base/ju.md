@@ -14,14 +14,14 @@
 
 데이터베이스는 데이터의 집합이라고 볼 수 있다
 
-DBMS의 정의
+## DBMS의 정의
 
 데이터베이스를 관리하고 운영하는 소프트웨어를 DBMS(Database Management System)이라고 한다. (엑셀은 아니다)
 
 1. 대용량
 2. 공유
 
-DBMS의 종류
+## DBMS의 종류
 
 특정 목적을 처리하기 위한 프로그램
 
@@ -58,17 +58,17 @@ DB에 어떤 변화가 있는 경우를 말함
 
 실패하면 모든 논리 작업을 취소하고 원래 상태로 복귀
 
-트랜잭션 속성- ACID 신맛 ㅋㅋ
+## 트랜잭션 속성- ACID 신맛 ㅋㅋ
 
 4가지
 
-A Atomicity 원자성
+### A Atomicity 원자성
 
 일부만 실행하고 종료 상태로 변경되면 안됨 → All or nothing
 
 하나의 트랜젝션 안에 있는 모든 명령은 완벽히 수행되던지 모두 취소되던지 해야 한다.
 
-C consistancy 일관성
+### C consistancy 일관성
 
 트랜잭션이 완료되면 항상 일관성 있는 데이터 유지 - Must change affected data only in allowed ways (허락된 명령을 해야 함)
 
@@ -76,7 +76,7 @@ C consistancy 일관성
 
 트랜젝션 수정 시 오류가 없는 데이터만 저장하라 (일관성 있게 모순되지 않게)
 
-I isolated 독립성, 격리성
+### I isolated 독립성, 격리성
 
 둘 이상의 트랜젝션이 동시에 실행되는 경우 하나의 트랜젝션 실행에 다른 트랜잭션이 끼어들 수 없다
 
@@ -84,28 +84,29 @@ I isolated 독립성, 격리성
 
 문제 있으면 roll back - 다시 처음으로 원위치
 
-D durability 영속성
+### D durability 영속성
 
 성공적으로 완료된 트랜잭션의 결과는 시스템이 고장나도 영구적으로 반영되어야 한다.
 
 achieved by flushing the transcation’s log records to non-volatile storage before acknowledging commitment 커밋 전의 기록을 백업
 
-트랜잭션 연산
+## 트랜잭션 연산
 
 Transaction Operations
 
-commit
+### commit
 
 관계형 데이터베이스에서 트랜잭션을 끝내는 것
 
 하드디스크에 영구적으로 적고 끝났음을 알려줌
 
-rollback
+### rollback
 
 원자성을 구현하기 위해 해당 트랜잭션이 수행한 모든 연산을 취소(Undo)(트랜잭션을 재시작하거나 취소함)
 
 트랜잭션 로그를 기록
 
+```
 활성화(Active) : 트랜잭션이 작업을 시작하여 실행 중인 상태
 
 실패(Failed) : 트랜잭션에 오류가 발생하여 실행이 중단된 상태
@@ -115,8 +116,8 @@ rollback
 부분 완료(Partially commited) : 트랜잭션의 마지막 연산까지 실행하고 commit 요청이 들어온 직후의 상태, 최종 결과를 데이터베이스에 아직 반영하지 않은 상태
 
 완료 (Commited) : 트랜잭션이 성공적으로 종료되어 commit 연산을 실행한 후의 상태
-
-교착상태 (Deadlock)
+```
+# 교착상태 (Deadlock)
 
 개념
 
@@ -126,14 +127,14 @@ ex? 꽉 막힌 도로 - 누군가 교통정리 해줘야 한다
 
 실제 시스템에서의 교착 상태 - 상호 거래 패턴
 
-필요 조건
+## 필요 조건
 
 1. 상호 배제 조건(mutual exclusion condition)
 2. 점유와 대기 조건(hold-and-wait condition)
 3. 비선점 조건(nopreemption condition)
 4. 순환 대기 조건(circular-wait condition)
 
-해결법
+## 해결법
 
 교착 상태 무시 : 교착 상태가 드물게 발생하는 시스템에서 일반적으로 사용
 
