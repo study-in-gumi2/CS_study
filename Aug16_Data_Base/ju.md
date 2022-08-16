@@ -10,9 +10,6 @@
 4-7. NoSQL
 ```
 
-# DataBase
-# Database
-
 # Database
 
 데이터베이스는 데이터의 집합이라고 볼 수 있다
