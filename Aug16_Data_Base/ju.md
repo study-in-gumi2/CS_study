@@ -25,8 +25,6 @@ DBMS의 종류
 
 특정 목적을 처리하기 위한 프로그램
 
-![02708159-48D0-449F-AA62-9CA0F3CA8624.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63faf55f-7152-45a9-b4b5-54d3594c7cb3/02708159-48D0-449F-AA62-9CA0F3CA8624.jpeg)
-
 DB를 조작하기 위해 DBMS에서 수행되는 작업 단위
 
 트랜잭션은 하나의 논리(작업) 단위  - 결과가 물리적으로 영향을 주지 않고 디스크에 쓰여지지 않는다(commit  명령 이후 반영)
