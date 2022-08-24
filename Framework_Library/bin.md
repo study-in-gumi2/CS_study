@@ -17,4 +17,5 @@
    라이브러리를 사용할 때 사용자는 애플리케이셔 코드의 흐름을 직접 제어해야한다. 개발 시 필요한 기능이 있으 경우 능동적으로 라이브러리르 호출하여 사용하거나 기존에 구성된 함수나 코드를 가져다 써야한다
    
    반면 프레임 워크는 애플리케이션의 코드가 프레임워크에 의해 사용된다. 애플리케이션 코드는 프레임워크가 짜 놓은 틀에서 수동적으 동작하기 때문에 제어의 흐름은 프레임워크가 가지고 있고 사용자가 그 안에 필요한 코드를 작ㄷ성하게 된다.
-   <img src=https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FblL9Lq%2FbtrlfeLuCLe%2FkaPoRIBK6tqX5xtHVgbdF1%2Fimg.png>
+
+![img](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FblL9Lq%2FbtrlfeLuCLe%2FkaPoRIBK6tqX5xtHVgbdF1%2Fimg.png)
