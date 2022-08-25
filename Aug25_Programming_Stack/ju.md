@@ -23,4 +23,5 @@
   
  <a> https://baek.dev/post/2/ </a>
   
-<a>  career.programmers.co.kr/competitions/1703 </a>
+ <a> career.programmers.co.kr/competitions/1703 </a>
+ https://blog.drakejin.me/assets/docs/portfolio.2017.pdf
